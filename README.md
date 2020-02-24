@@ -1,5 +1,15 @@
 ETABLISSEMENTS TEST
 
+## Setup 
+
+-> install typescript globally
+
+`yarn global typescript` OR `npm install typescript -g`
+
+-> install dependencies
+
+`yarn install` OR `npm install`
+
 ## Run
 
 `tsc && node ./dist/index.js`
