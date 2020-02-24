@@ -3,6 +3,7 @@
     "authEntity": "users",
     "convertCase": "kebab-case",
     "unconvertCase": "kebab-case",
+    "strict":true,
     "port":8000,
     "jwtAuthKey":"patate",
     "jwtExpiration":2
