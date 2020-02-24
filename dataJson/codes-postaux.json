@@ -1,0 +1,35 @@
+{
+    "codes-postaux": [
+        {
+            "id":"1",
+            "code_postal":5660,
+            "commune_fusionnee":"couvin",
+            "commune_absorbee":"mons",
+            "langue_de_la_commune":"fr",
+            "code_niss":22,
+            "date_last_modif":"2020-08-02",
+            "id_utilisateur_last_modif":"2"
+        },
+        {
+            "id":"2",
+            "code_postal":7000,
+            "commune_fusionnee":"mons",
+            "commune_absorbee":"jemappes",
+            "langue_de_la_commune":"fr",
+            "code_niss":21,
+            "date_last_modif":"2019-08-02",
+            "id_utilisateur_last_modif":"2"
+        }
+        ,
+        {
+            "id":"3",
+            "code_postal":5670,
+            "commune_fusionnee":"nismes",
+            "commune_absorbee":"chimay",
+            "langue_de_la_commune":"fr",
+            "code_niss":20,
+            "date_last_modif":"2018-08-02",
+            "id_utilisateur_last_modif":"2"
+        }
+    ]
+}

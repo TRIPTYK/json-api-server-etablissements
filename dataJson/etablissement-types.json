@@ -1,0 +1,16 @@
+{
+    "etablissement-types": [
+        {
+            "id":"1",
+            "libelle":"Appartement"
+        },
+        {
+            "id":"2",
+            "libelle":"Maison"
+        },
+        {
+            "id":"3",
+            "libelle":"Cabane"
+        }
+    ]
+}

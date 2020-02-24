@@ -1,0 +1,26 @@
+CREATE TABLE SSC_ADRESSE
+(
+  ID_ADRESSE                 INTEGER CONSTRAINT SSC_ADRESSE_ID_ADRESSE NOT NULL,
+  RUE                        VARCHAR2(255 BYTE),
+  NUMERO                     VARCHAR2(15 BYTE),
+  TYPE                       INTEGER,
+  DATE_DEBUT                 DATE,
+  DATE_FIN                   DATE,
+  ID_INDIVIDUS               INTEGER,
+  BOITE                      VARCHAR2(25 BYTE),
+  SOFTDELETE                 INTEGER            DEFAULT 0,
+  ID_CODE_POSTAUX            INTEGER,
+  CODES_POSTAUX_ARCH         NUMBER(5),
+  CODES_RUE_ARCH             NUMBER(5),
+  LOCALITE_ARCH              VARCHAR2(35 BYTE),
+  CODE_RUE                   INTEGER,
+  CODE_POSTAL                INTEGER,
+  DATE_LAST_MODIF            DATE,
+  ID_UTILISATEUR_LAST_MODIF  INTEGER,
+  SEL_TYPE_DOMICILE          INTEGER,
+  NBR_MODIF                  VARCHAR2(20 CHAR),
+  ID_TIERS                   INTEGER,
+  TYPE_ARCH                  INTEGER,
+  ADRESSE_ETRANGER           VARCHAR2(255 BYTE),
+  PRIOPITE_ARCH              NUMBER(1)
+)

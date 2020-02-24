@@ -1,0 +1,28 @@
+{
+    "etablissements": [
+        {
+            "id":"1",
+            "etablissement":"Fake etablissement",
+            "addresses#address":"2",
+            "etablissement-types#type":"1",
+            "softdelete":1,
+            "active": true
+        },
+        {
+            "id":"2",
+            "etablissement":"Crumbs",
+            "addresses#address":"1",
+            "etablissement-types#type":"3",
+            "softdelete":1,
+            "active": true
+        },
+        {
+            "id":"3",
+            "etablissement":"Mac'Do",
+            "addresses#address":"1",
+            "etablissement-types#type":"3",
+            "softdelete":1,
+            "active": true
+        }
+    ]
+}

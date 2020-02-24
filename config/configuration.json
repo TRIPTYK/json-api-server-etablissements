@@ -1,0 +1,9 @@
+{
+    "pluralizeSerializers": false,
+    "authEntity": "users",
+    "convertCase": "kebab-case",
+    "unconvertCase": "kebab-case",
+    "port":8000,
+    "jwtAuthKey":"patate",
+    "jwtExpiration":2
+}
