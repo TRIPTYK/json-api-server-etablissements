@@ -1,5 +1,5 @@
 {
-    "pluralizeSerializers": true,
+    "pluralizeSerializers": false,
     "authEntity": "users",
     "convertCase": "kebab-case",
     "unconvertCase": "kebab-case",

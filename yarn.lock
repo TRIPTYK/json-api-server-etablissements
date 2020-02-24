@@ -19,10 +19,10 @@
   resolved "https://registry.yarnpkg.com/@hapi/hoek/-/hoek-9.0.3.tgz#e49e637d5de8faa4f0d313c2590b455d7c00afd7"
   integrity sha512-jKtjLLDiH95b002sJVc5c74PE6KKYftuyVdVmsuYId5stTaWcRFqE+5ukZI4gDUKjGn8wv2C3zPn3/nyjEI7gg==
 
-"@triptyk/jsonapi-server@^0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@triptyk/jsonapi-server/-/jsonapi-server-0.0.5.tgz#f1e50b9864088ba51fc08df57e7741dcc3708993"
-  integrity sha512-xrtdpg3/zXB6nwT+G8JXrL+ynFQPn9HTv+tsaTb35oEONLQr6nJRrhUQ6Ulj+4vkbR6uFB/fwJ42SNNjKf3fvA==
+"@triptyk/jsonapi-server@^0.0.8":
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/@triptyk/jsonapi-server/-/jsonapi-server-0.0.8.tgz#0ae3b58451572bb6623062d6f3fd650246d2fcd7"
+  integrity sha512-Gtk6wogOrCW62xLf/WZ59nVpVS+XCZgBP9E+S5EwiqW5ZZEONV5f3CkTPNDLNcVDMG6P5gGZoE1WyCVqlTxz2Q==
   dependencies:
     "@hapi/boom" "^9.0.0"
     "@types/body-parser" "^1.19.0"
