@@ -1,5 +1,9 @@
 ETABLISSEMENTS TEST
 
+## Run
+
+`tsc && node ./dist/index.js`
+
 ## JSON models 
 
 You can provide json models that will be be automatically loaded into the fake database
